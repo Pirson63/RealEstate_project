@@ -69,6 +69,6 @@
 Стек технологий
 - Python 3
 - pandas, NumPy
-- matplotlib (и/или seaborn / plotly)
+- matplotlib, seaborn
 - scikit‑learn (LinearRegression, RandomForestRegressor)
 
